@@ -1,0 +1,37 @@
+What's D3.js
+	- Manipulating documents based on `data`
+	- Using HTML, SVG and CSS
+	- Data Visualization
+
+#Introduction
+	- Bind data to DOM
+	- Apply data-driven `transformations` to DOM
+
+#Selections
+	- like jQuery
+	- Provides numerous methods for mutating nodes
+	- set attr or style
+	- register event
+	- add/remove/sort ndoe
+	- change html or innerText
+
+#Dynamic Properties
+	- styles/attrs can be specified as functions of data
+
+#Enter and Exit
+	- Using the D3's enter and exit selections, you can create new nodes for incoming data and remove outgoing nodes that are no longer needed
+	- When data is bound to a selection, each element in the data array is paired with the corresponding node in the selection. If there are fewer nodes than data, the extra data elements form the enter selection, which you can instantiate by appending to the enter selection
+
+#Transformation, not Representation
+	- Comes from HTML, SVG and CSS
+	- Easy to debug
+
+#Transitions
+	
+
+
+
+
+
+
+
